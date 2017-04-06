@@ -37,6 +37,12 @@ namespace ED___Programa_16.Inventario
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
+            //Si se diera el caso de que tuvieras 1000 productos y buscas el que resulta estar guardado en la
+            //posicion 900, lo buscaras para saber que existe y
+            //despues lo vovleras a buscar para sacar el toString
+            //
+            //Seria mejor poner Producto buscado=inventario.buscar(txtCodigo.Text);
+            //y ya preguntar si buscado== null y hacer el buscado.toString cuando se ocupe.
             if (inventario.buscar(txtCodigo.Text) != null)
                 txtMostrar.Text = inventario.buscar(txtCodigo.Text).ToString();
             else
