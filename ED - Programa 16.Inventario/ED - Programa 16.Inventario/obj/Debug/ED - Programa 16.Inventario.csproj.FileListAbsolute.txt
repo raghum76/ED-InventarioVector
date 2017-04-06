@@ -1,0 +1,10 @@
+C:\Users\20126250\Documents\Visual Studio 2015\Projects\ED - Programa 16.Inventario\ED - Programa 16.Inventario\bin\Debug\ED - Programa 16.Inventario.exe.config
+E:\4to Semestre\Estructura de datos\ED - Programa 16.Inventario\ED - Programa 16.Inventario\bin\Debug\ED - Programa 16.Inventario.exe.config
+E:\4to Semestre\Estructura de datos\ED - Programa 16.Inventario\ED - Programa 16.Inventario\bin\Debug\ED - Programa 16.Inventario.exe
+E:\4to Semestre\Estructura de datos\ED - Programa 16.Inventario\ED - Programa 16.Inventario\bin\Debug\ED - Programa 16.Inventario.pdb
+E:\4to Semestre\Estructura de datos\ED - Programa 16.Inventario\ED - Programa 16.Inventario\obj\Debug\ED - Programa 16.Inventario.csprojResolveAssemblyReference.cache
+E:\4to Semestre\Estructura de datos\ED - Programa 16.Inventario\ED - Programa 16.Inventario\obj\Debug\ED___Programa_16.Inventario.Form1.resources
+E:\4to Semestre\Estructura de datos\ED - Programa 16.Inventario\ED - Programa 16.Inventario\obj\Debug\ED___Programa_16.Inventario.Properties.Resources.resources
+E:\4to Semestre\Estructura de datos\ED - Programa 16.Inventario\ED - Programa 16.Inventario\obj\Debug\ED - Programa 16.Inventario.csproj.GenerateResource.Cache
+E:\4to Semestre\Estructura de datos\ED - Programa 16.Inventario\ED - Programa 16.Inventario\obj\Debug\ED - Programa 16.Inventario.exe
+E:\4to Semestre\Estructura de datos\ED - Programa 16.Inventario\ED - Programa 16.Inventario\obj\Debug\ED - Programa 16.Inventario.pdb
