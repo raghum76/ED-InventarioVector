@@ -13,7 +13,8 @@ namespace ED___Programa_16.Inventario
         {
             get { return _codigo; }
         }
-
+        //Quizas el codigo solo será de lectura, la recomendación es que el resto de las propiedades si 
+        //se puedan cambiar, al menos cantidad y costo...
         private string _nombre;
         public string nombre
         {
